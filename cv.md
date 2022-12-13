@@ -26,8 +26,8 @@ I spend a lot of time on what interests me. My goal is to get as much theoretica
 
 ## Skills
 <div>
-  <img src="https://user-images.githubusercontent.com/119946205/207313955-4f334bde-62a9-48b1-95a4-3f57bc763d3e.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/119946205/207314578-8905dabc-f8f8-4fd3-8a0c-43f329d4c382.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
+  <img src="https://user-images.githubusercontent.com/119946205/207313955-4f334bde-62a9-48b1-95a4-3f57bc763d3e.png" title="Java" alt="Java" width="40" height="40">
+  <img src="https://user-images.githubusercontent.com/119946205/207314578-8905dabc-f8f8-4fd3-8a0c-43f329d4c382.png" title="MySQL"  alt="MySQL" width="40" height="40"> 
   <img src="https://user-images.githubusercontent.com/119946205/207309630-5ddce601-90fc-4181-bad2-6639579bd8f2.png" alt="IntelliJIDEA" width="40" height="40">
 </div>
 
