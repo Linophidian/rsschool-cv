@@ -45,5 +45,5 @@ I spend a lot of time on what interests me. My goal is to get as much theoretica
 </pre>
 
 ## Language
-English - B2 (Intermidiate)
-Polish - Basics
+1. English - B2 (Intermidiate)
+2. Polish - Basics
