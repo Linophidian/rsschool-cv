@@ -6,8 +6,8 @@
   <a href="https://discordapp.com/users/884839205790953563/">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Bardge">
   </a>
-  <a href="https://discordapp.com/users/884839205790953563/">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Telegram Bardge">
+  <a href="https://web.telegram.org/z/#-1581374926">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Bardge">
   </a>
 </div>
 
@@ -26,8 +26,24 @@ I spend a lot of time on what interests me. My goal is to get as much theoretica
 
 ## Skills
 <div>
-  <a href="Qualification: Junior" class="blok">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <span class="Java">Qualification: Junior</span>
-  </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
+  <img src="https://user-images.githubusercontent.com/119946205/207309630-5ddce601-90fc-4181-bad2-6639579bd8f2.png" alt="IntelliJIDEA" width="40" height="40">
 </div>
+
+## Code Example
+<pre>
+<code>public static BufferedImage getResouceImage(String path) {
+        BufferedImage img = null;
+        try {
+            img = ImageIO.read(new File(path));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return img;
+    }</code>
+</pre>
+
+## Language
+English - B2 (Intermidiate)
+Polish - Basics
