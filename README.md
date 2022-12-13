@@ -1,1 +1,1 @@
-[link](https://Linophidian.github.io/rsschool-cv/)
+[link](https://linophidian.github.io/rsschool-cv/cv)
