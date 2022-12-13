@@ -1,15 +1,27 @@
-.header {
-	top:20px;
+body{
+  background-color: #334d8f;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  padding: 50px 100px;
 }
-
-.main {
-	padding-top:100px;
+.error{
+  background-color: #fff;
+  padding: 10px;
+  display: inline-block;
+  border-left: solid 5px #e6542b;
 }
-
-.posLeft {
-	margin-left:-66%;
+h3{
+  color: #fff;
 }
-
-.posCenter {
-	margin-left:33%;
+p{
+  color: #fff;
+  font-weight: 300;
+}
+hr{
+  opacity: 0.2;
+  margin: 15px 0;
+  display: block;
+}
+.has-empty:empty{
+  display: none;
 }
